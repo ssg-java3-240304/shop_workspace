@@ -1,0 +1,12 @@
+[submodule "shop-Kick-n-Go"]
+	path = shop-Kick-n-Go
+	url = https://github.com/ssg-java3-240304/shop-Kick-n-Go
+[submodule "shop-SSG-Town-Store"]
+	path = shop-SSG-Town-Store
+	url = https://github.com/ssg-java3-240304/shop-SSG-Town-Store.git
+[submodule "shop-Furni-Dream"]
+	path = shop-Furni-Dream
+	url = https://github.com/ssg-java3-240304/shop-Furni-Dream.git
+[submodule "shop-Animal-Playground"]
+	path = shop-Animal-Playground
+	url = https://github.com/ssg-java3-240304/shop-Animal-Playground.git
